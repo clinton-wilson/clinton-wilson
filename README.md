@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+# Clinton Wilson
 <!--
 **clinton-wilson/clinton-wilson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +14,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+## Interests
+1. Music
+1. Hiking
+1. Cooking
+
+## Pedals
+|Manufacturer |Name  |Type  |
+|--|--|--|
+|  |  |  |
+|  |  |  |
