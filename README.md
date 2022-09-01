@@ -16,11 +16,9 @@ Here are some ideas to get you started:
 -->
 ## Interests
 1. Music
-1. Hiking
-1. Cooking
+2. Hiking
+3. Cooking
 
-## Pedals
-|Manufacturer |Name  |Type  |
-|--|--|--|
-|  |  |  |
-|  |  |  |
+I'm currently working on my final capstone at Nashville Software School.
+
+For the past two months I've been learning SQL, Python and Django.
